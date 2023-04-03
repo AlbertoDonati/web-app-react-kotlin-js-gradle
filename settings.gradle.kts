@@ -1,3 +1,3 @@
 
-rootProject.name = "confexplorer"
+rootProject.name = "web-appr"
 
